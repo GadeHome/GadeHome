@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @GadeHome
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some companys
-- 📫 How to reach me please send your letters on my email: gadlane4ik@gmail.com
-
-<!---
-GadeHome/GadeHome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I'm @GadeHome or just Timofey
+- I am engaged in programming microcontrollers, software extensions, and high-level software
+- I study at the International School of Engineering (IES) and work at the Laboratory of High Energy Physics of the Joint Institute for Nuclear Research (LHEP JINR)
+- My stack: C++, C, Rust, Python, HTML, CSS, JS, TS
